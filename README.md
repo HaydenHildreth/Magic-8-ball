@@ -1,4 +1,4 @@
-![banner](https://imgur.com/a/dxK5A)
+![banner](https://imgur.com/tDjbSQF)
 
 ## Magic 8-ball
 
