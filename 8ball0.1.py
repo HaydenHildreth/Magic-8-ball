@@ -1,11 +1,7 @@
 import random
 
-#Random numbers to find final "random" number
-x = random.randint(1,10)
-y = random.randint(1,10)
-
-#Final "random" number
-z = x *y
+#Random number
+z = random.randint(1,10)
 
 #All possible answers below are from https://en.wikipedia.org/wiki/Magic_8-Ball
 if z < 5:
