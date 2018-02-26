@@ -1,4 +1,6 @@
-# Magic 8-ball
+![banner](https://imgur.com/a/dxK5A)
+
+## Magic 8-ball
 
 ## Why a Magic 8-ball?
 
