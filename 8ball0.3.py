@@ -1,7 +1,7 @@
 import random
 
 #Random number
-z = random.randint(1,10)
+z = random.randint(1,100)
 
 #All possible answers below are from https://en.wikipedia.org/wiki/Magic_8-Ball
 if z < 5:
